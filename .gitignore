@@ -9,5 +9,6 @@ dist
 /MANIFEST
 
 .idea
+.vscode
 venv
 xxx*
